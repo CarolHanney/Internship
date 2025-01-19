@@ -1,0 +1,7 @@
+{
+    "watch": ["src"],
+    "ext": "js,json,ts.ysx,json,ejs",
+    "ignore": ["node_modules"],
+    "exec": "node src/app.js"
+  }
+  
